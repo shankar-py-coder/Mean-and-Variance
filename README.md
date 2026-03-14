@@ -78,6 +78,7 @@ print(f"The Standard deviation of arrival from feeder is {sd:.3f}")
 
 
 # Output : 
+![image alt](https://github.com/shankar-py-coder/Mean-and-Variance/blob/main/Screenshot%202026-03-14%20180157.png?raw=true)
 
 
 # Results :
